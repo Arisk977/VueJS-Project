@@ -13,5 +13,6 @@
     border-radius: 16px;
     padding: 24px 32px;
     color: white;
+    font-family: 'Rubik', sans-serif;
 }
 </style>
